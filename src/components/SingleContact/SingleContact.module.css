@@ -1,0 +1,12 @@
+.listItem {
+  margin-bottom: 5px;
+}
+
+.contactText {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.contactButton {
+  cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.form {
+  display: block;
+  width: 200px;
+  margin: 0 auto 20px;
+}
+
+.inputName {
+  margin-bottom: 10px;
+}
+
+.inputnumber {
+  margin-bottom: 10px;
+}
